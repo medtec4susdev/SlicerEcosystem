@@ -1,0 +1,41 @@
+Back to [Projects List](../../README.md#ProjectsList)
+
+# Slicer Ecosystems Education for Newcomers & Developing Countries
+## Key Investigators
+
+- Marilola Afonso (Universidad de Las Palmas de Gran Canaria - GTMA - MACbioIDi)
+- Nayra Pumar (Universidad de Las Palmas de Gran Canaria - GTMA - MACbioIDi)
+- Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria - GTMA - MACbioIDi)
+
+# Project Description
+
+## Objective
+
+1. Objective A. Describe it in 1-2 sentences.
+1. Objective B. Describe it in 1-2 sentences.
+1. Objective C. Describe it in 1-2 sentences.
+
+## Approach and Plan
+
+1. Describe planned approach to reach objectives.
+1. ...
+1. ...
+
+## Progress and Next Steps
+
+<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
+# Illustrations
+
+<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+![3D Slicer Training Network](3DslicerTrainingNetwork_1.jpg)
+
+# Background and References
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+
+- Presentation: https://medtec4susdev.github.io/3DSlicerTrainingNetwork/projectdemo
+
+<!--Link for editing page when displayed in GitHub pages-->
+<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
