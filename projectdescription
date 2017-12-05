@@ -9,6 +9,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
+- Presentation: https://medtec4susdev.github.io/3DSlicerTrainingNetwork/projectdemo
+
 ## Objective
 
 1. Establish a training plan for both profiles: medical area professionals and engineers of the developing countries.
@@ -35,7 +37,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Presentation: https://medtec4susdev.github.io/3DSlicerTrainingNetwork/projectdemo
+Tutorials: https://www.slicer.org/wiki/Documentation/4.8/Training
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
