@@ -33,7 +33,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![3D Slicer Training Network](https://github.com/medtec4susdev/SlicerEcosystem/blob/master/3DslicerTrainingNetwork_1.jpg){:height="36px" width="36px"}.
+![3D Slicer Training Network](https://github.com/medtec4susdev/SlicerEcosystem/blob/master/3DslicerTrainingNetwork_1.jpg){:height="36px" width="36px"}
 
 # Background and References
 
