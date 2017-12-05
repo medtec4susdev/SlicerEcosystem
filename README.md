@@ -44,5 +44,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 Plus Toolkit User's guide: https://plustoolkit.github.io/usersguide
 
 <!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/Slicer Ecosystems Education for Newcomers & Developing Countries/README.md">Edit this page on GitHub</a>
-
+<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/SlicerEducationForDevelopingCountries.md">Edit this page on GitHub</a>
