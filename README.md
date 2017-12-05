@@ -40,6 +40,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 3D Slicer Tutorials: https://www.slicer.org/wiki/Documentation/4.8/Training
+
 Plus Toolkit User's guide: https://plustoolkit.github.io/usersguide
 
 <!--Link for editing page when displayed in GitHub pages-->
