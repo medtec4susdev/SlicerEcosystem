@@ -15,6 +15,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Presentation: https://medtec4susdev.github.io/3DSlicerTrainingNetwork/projectdemo
 
+The main objective is the creation of a training plan that could be adapted for 3DSlicer new users with both: medical and engineer profiles. This plan should consider the needs and particular characteristics in the developing countries of Cape Verde, Senegal and Mauritania.  
+In any case the training material sould be oriented to the creation of digital learning objects. 
+
 ## Objective
 
 1. Establish a training plan for both profiles: medical area professionals and engineers of the developing countries.
