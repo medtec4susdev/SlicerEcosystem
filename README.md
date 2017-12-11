@@ -27,7 +27,7 @@ In any case the training material sould be oriented to the creation of digital l
 ## Approach and Plan
 
 1. Review and consult about the training material.
-1. Study and determine how to adapt this material for professionals in the developing countries.
+2. Study and determine how to adapt this material for professionals in the developing countries.
 1. Plan the development of learning objects according to the agenda of the training guide.
 
 ## Progress and Next Steps
